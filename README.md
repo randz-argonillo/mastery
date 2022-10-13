@@ -1,6 +1,6 @@
 # Mastery
 
-**TODO: Add description**
+**This is a quiz application following the pattern described in Designing Elixir Systems book**
 
 ## Installation
 
